@@ -1,0 +1,29 @@
+{
+    "Felhasználó 1":
+    {
+        "Egyedi azonosító": 1, 
+        "Teljesn név": "Teszt László", 
+        "Email": "laszlo.teszt@example.com",
+        "Életkor": 35,
+        "Aktív": true,
+        "Kedvenc színek": ["kék", "zöld", "sárga"]
+    },
+    "Felhasználó 2": 
+    {
+        "Egyedi azonosító": 2, 
+        "Teljesn név": "Teszt Éva", 
+        "Email": "eva.teszt@example.com",
+        "Életkor": 28,
+        "Aktív": false,
+        "Kedvenc színek": []
+    },
+    "Felhasználó 3":
+    {
+        "Egyedi azonosító": 3, 
+        "Teljesn név": "Teszt Péter", 
+        "Email": "peter.teszt@example.com",
+        "Életkor": 40,
+        "Aktív": true,
+        "Kedvenc színek": ["piros", "fekete"]
+    }
+}
